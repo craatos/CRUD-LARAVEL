@@ -15,6 +15,6 @@ class UserController extends Controller
     }
 
     public function destroy(){
-        //comentario
+        //comentario de prueba
     }
 }
